@@ -1,0 +1,6 @@
+Algorithm,Size,Average,Min,Max
+Shell,10000,0.97,0,1
+Shell,20000,2.0,2,2
+Shell,40000,5.11,5,7
+Shell,80000,11.99,11,12
+Shell,160000,27.08,26,28
